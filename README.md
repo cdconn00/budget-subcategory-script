@@ -12,6 +12,9 @@ This script makes it possible to have dependent drop-down selectors for multiple
 - Follow the prompts to authenticate.
 - Done!
 
+## Demo
+![Budget Script Demo](https://s8.gifyu.com/images/BudgetScriptDemo.md.gif)
+
 ## Contributing
 I am currently not seeking any outside contributors for this project, as it is complete and small. 
 
